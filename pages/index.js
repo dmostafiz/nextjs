@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://dcodea.com">Dcodea Technologies!</a>
+          Welcome to <br/> <a href="https://dcodea.com">Dcodea Software Technologies!</a>
         </h1>
 
         <p className={styles.description}>
